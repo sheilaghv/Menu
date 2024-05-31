@@ -1,0 +1,9 @@
+C:\Users\lauta\source\repos\Ejercicio\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+C:\Users\lauta\source\repos\Ejercicio\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\lauta\source\repos\Ejercicio\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\lauta\source\repos\Ejercicio\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\lauta\source\repos\Ejercicio\Menu\bin\Debug\Menu.exe.config
+C:\Users\lauta\source\repos\Ejercicio\Menu\bin\Debug\Menu.exe
+C:\Users\lauta\source\repos\Ejercicio\Menu\bin\Debug\Menu.pdb
+C:\Users\lauta\source\repos\Ejercicio\Menu\obj\Debug\Menu.exe
+C:\Users\lauta\source\repos\Ejercicio\Menu\obj\Debug\Menu.pdb
